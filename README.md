@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Baltimore-Columbia-Towson Metro Area, MD, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `820110` |
 | Location | Baltimore-Columbia-Towson, MD |
 | Category | Restaurants |
-| Full dataset size | 21 records |
-| Free sample size | 2 records (9.52%) |
-| Last export | 2026-04-08T07:23:46.703601+00:00 |
+| Full dataset size | 16 records |
+| Free sample size | 1 records (6.25%) |
+| Last export | 2026-04-15T10:45:06.307070+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-baltimore-columbia-towson-metro-area-md-us-sample-820110/releases/download/sample-latest/beamstation_820110_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
