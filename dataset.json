@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Baltimore-Columbia-Towson Metro Area, MD, US",
-  "export_job_id": "5ccadf9f-0ee6-4a75-b576-cc242413a4d2",
+  "export_job_id": "93da0931-8424-4592-b21a-49800453a105",
   "github_org": "Beamstation-Datasets",
   "id_short": 820110,
   "location_name": "Baltimore-Columbia-Towson, MD",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-baltimore-columbia-towson-metro-area-md-us-sample-820110",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/820110/beamstation_820110_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
-  "sample_pct": 6.25,
+  "sample_pct": 33.33,
   "sample_records": 1,
-  "sample_sha256": "2d8efe241391234e65f55236168a80bedff84c0d5446b6ab3b542d80e15cb33a",
-  "sample_size_bytes": 19468,
-  "total_records": 16,
-  "updated_at": "2026-04-15T10:45:06.307070+00:00"
+  "sample_sha256": "debd92a7806311d5fe9dde8aab76830fa85093cd6e9dbca72ceb4390dc7d28b9",
+  "sample_size_bytes": 20325,
+  "total_records": 3,
+  "updated_at": "2026-04-22T18:43:18.523467+00:00"
 }
