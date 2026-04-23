@@ -9,9 +9,9 @@
 | Dataset ID | `820110` |
 | Location | Baltimore-Columbia-Towson, MD |
 | Category | Restaurants |
-| Full dataset size | 16 records |
-| Free sample size | 1 records (6.25%) |
-| Last export | 2026-04-15T10:45:06.307070+00:00 |
+| Full dataset size | 3 records |
+| Free sample size | 1 records (33.33%) |
+| Last export | 2026-04-22T18:43:18.523467+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-baltimore-columbia-towson-metro-area-md-us-sample-820110/releases/download/sample-latest/beamstation_820110_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
