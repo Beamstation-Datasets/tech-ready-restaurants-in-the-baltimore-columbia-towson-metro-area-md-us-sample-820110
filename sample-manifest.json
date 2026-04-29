@@ -1,12 +1,12 @@
 {
-  "export_job_id": "93da0931-8424-4592-b21a-49800453a105",
+  "export_job_id": "5dd640e7-5c08-4b24-ac7f-7b0cdbe58c90",
   "id_short": 820110,
-  "published_at": "2026-04-23T07:11:32Z",
+  "published_at": "2026-04-29T19:44:43Z",
   "repo_name": "tech-ready-restaurants-in-the-baltimore-columbia-towson-metro-area-md-us-sample-820110",
   "sample_asset_name": "beamstation_820110_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/820110/beamstation_820110_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "debd92a7806311d5fe9dde8aab76830fa85093cd6e9dbca72ceb4390dc7d28b9",
-  "sample_size_bytes": 20325,
-  "total_records": 3
+  "sample_records": 3,
+  "sample_sha256": "4d986bbf39886067b3440b5c928fa5f91cbd8570be1b249f589bdd12c1467b69",
+  "sample_size_bytes": 27879,
+  "total_records": 39
 }
